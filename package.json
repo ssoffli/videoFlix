@@ -1,0 +1,16 @@
+{
+  "name": "videoFlix",
+  "version": "1.0.0",
+  "description": "App de prueba de reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santos",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
